@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ESTUDIO1-clone",
+    "name": "ESTUDIO1b",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -33,9 +33,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 38,
+    "uniqCompNum": 42,
     "versionPublish": "4.10.8",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-sp-rev01-19.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-sp-rev01-16.png",
     "noImageResize": "true",
     "gdpr": "",
     "siteUrl": "undefined",
@@ -207,8 +207,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "35",
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -271,137 +271,85 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#545251"
+          },
+          "text": "Nuestros valores",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#c93526",
-              "border-color": "#c93526"
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "30px"
             }
           },
+          "_anchor": "content1-15"
+        },
+        {
           "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
+            "showTitle": true,
+            "showText": false,
             "showButtons": false,
-            "iconsBgColor": "#c93526",
-            "paddingTop": "0",
-            "paddingBottom": "3",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "39",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/accounting-3840969.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c93526",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#c93526",
+            "overlayOpacity": "0.9"
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "down",
-              "family": "mobirise-icons-bold",
+          "media": {
+            "image": {
               "active": true,
-              "link": "index.html#content1-b",
-              "size": "40",
-              "color": "#fcf3ce",
-              "newWindow": false
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-9.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
             }
           },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "down",
-              "family": "mobirise-icons-bold",
-              "active": true,
-              "link": "index.html#content1-b",
-              "size": "1",
-              "color": "#fcf3ce",
-              "newWindow": false
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "<span style=\"font-weight: normal;\">R E S P E T O&nbsp;</span><br><span style=\"font-weight: normal;\">E X C E L E N C I A&nbsp;</span><br><span style=\"font-weight: normal;\">H O N E ST I D A D &nbsp;</span><br><span style=\"font-weight: normal;\">C O M P R O M I S O &nbsp;</span><br><span style=\"font-weight: normal;\">S E R V I C I O&nbsp;</span>",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Tema"
           ],
-          "_name": "features4",
-          "_anchor": "features4-a"
+          "_name": "header2",
+          "_anchor": "header2-14",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "30px",
+              "color": "#fcf3ce"
+            }
+          }
         },
         {
           "_params": {

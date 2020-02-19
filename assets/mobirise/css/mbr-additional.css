@@ -30,6 +30,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -575,12 +577,16 @@ section.form .container {
 #msg-box5-1 SPAN {
   font-size: 30px;
 }
-#features4-a .card-subtitle {
-  color: #bcbcbc;
+#content1-15 DIV {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
 }
-#features4-a .iconbox {
-  background-color: #c93526;
-  border-color: #c93526;
+#header2-14 .mbr-section-title {
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  color: #fcf3ce;
 }
 #content1-b DIV {
   color: #ffffff;
