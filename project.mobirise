@@ -35,7 +35,7 @@
     "siteFonts": [],
     "uniqCompNum": 42,
     "versionPublish": "4.10.8",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-sp-rev01-16.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-sp-rev01-14.png",
     "noImageResize": "true",
     "gdpr": "",
     "siteUrl": "undefined",
@@ -62,7 +62,7 @@
               "color": "#ffffff",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px"
+              "font-size": "12px"
             },
             ".navbar-toggler": {
               "color": "#545251"
@@ -146,7 +146,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#content1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;|| Esto es un DEMO Website || ver más ...&nbsp;&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#content1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">|| Esto es un DEMO Website ||<br> ver más ...&nbsp;&nbsp;</a>",
           "_tags": [
             "Tema"
           ],
@@ -299,9 +299,9 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "39",
+            "imageSize": "33",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/accounting-3840969.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -311,7 +311,7 @@
             },
             "overlay": true,
             "overlayColor": "#c93526",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -334,7 +334,7 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">R E S P E T O&nbsp;</span><br><span style=\"font-weight: normal;\">E X C E L E N C I A&nbsp;</span><br><span style=\"font-weight: normal;\">H O N E ST I D A D &nbsp;</span><br><span style=\"font-weight: normal;\">C O M P R O M I S O &nbsp;</span><br><span style=\"font-weight: normal;\">S E R V I C I O&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">RESPETO</span><br><span style=\"font-weight: normal;\">&nbsp;</span><br><span style=\"font-weight: normal;\">EXCELENCIA</span><br><span style=\"font-weight: normal;\">&nbsp;</span><br><span style=\"font-weight: normal;\">HONESTIDAD&nbsp;</span><br><span style=\"font-weight: normal;\">&nbsp;</span><br><span style=\"font-weight: normal;\">COMPROMISO</span><br><span style=\"font-weight: normal;\">&nbsp;</span><br><span style=\"font-weight: normal;\">SERVICIO</span>",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -347,7 +347,11 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "30px",
-              "color": "#fcf3ce"
+              "color": "#fcf3ce",
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "24px"
             }
           }
         },
@@ -791,7 +795,7 @@
       "components": [
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#545251"
           },
@@ -854,7 +858,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "<span style=\"font-weight: normal;\">Redes Sociales</span>",
-          "caption": "<p>El sitio web posee enlaces con los perfiles de sus cuentas (Twitter, LinkedIN, etc.) de manera que el visitante acceda solo con un click a los contenidos e informaciones allí publicados.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <b><a href=\"index.html#content1-o\" class=\"text-warning\">VOLVER</a></b><br></p>",
+          "caption": "<p>El sitio web posee enlaces con los perfiles de sus cuentas (Twitter, LinkedIN, etc.) de manera que el visitante acceda solo con un click a los contenidos e informaciones allí publicados.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <b><a href=\"index.html#content1-o\" class=\"text-warning\">VOLVER</a></b><br></p>",
           "_tags": [
             "Tema"
           ],
@@ -867,7 +871,7 @@
             "paddingBottom": "7",
             "bgColor": "#545251"
           },
-          "text": "",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Tema"
           ],
