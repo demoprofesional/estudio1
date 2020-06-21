@@ -3,10 +3,9 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
 
 
 
@@ -112,7 +111,7 @@ h6,
   background-color: #c92663 !important;
 }
 .bg-warning {
-  background-color: #ffffff !important;
+  background-color: #efefef !important;
 }
 .bg-danger {
   background-color: #c93526 !important;
@@ -198,8 +197,8 @@ h6,
   border-color: #6a8153 !important;
 }
 .btn-warning {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #efefef;
+  border-color: #efefef;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -208,14 +207,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  background-color: #c9c9c9;
+  border-color: #c9c9c9;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  background-color: #c9c9c9 !important;
+  border-color: #c9c9c9 !important;
 }
 .btn-danger {
   background-color: #c93526;
@@ -319,8 +318,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #ffffff;
-  color: #ffffff;
+  border-color: #bcbcbc;
+  color: #bcbcbc;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -328,14 +327,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #efefef;
+  border-color: #efefef;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
+  background-color: #efefef !important;
+  border-color: #efefef !important;
 }
 .btn-danger-outline {
   background: none;
@@ -367,7 +366,7 @@ h6,
   color: #c92663 !important;
 }
 .text-warning {
-  color: #ffffff !important;
+  color: #efefef !important;
 }
 .text-danger {
   color: #c93526 !important;
@@ -379,7 +378,7 @@ h6,
   background-color: #c92663;
 }
 .alert-warning {
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .alert-danger {
   background-color: #c93526;
@@ -435,9 +434,6 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #2765ab;
-}
-.scrollToTop_wraper {
-  display: none;
 }
 .form-control {
   padding: 0.9rem;
@@ -517,19 +513,19 @@ section.form .container {
 }
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-menu {
-  background: #b3b3b3;
+  background: #e64328;
 }
 #menu-1 .nav-dropdown-sm .link:focus,
 #menu-1 .nav-dropdown-sm .link:hover,
 #menu-1 .nav-dropdown-sm .dropdown-item:focus,
 #menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #c4c4c4!important;
+  background: #e95f48!important;
 }
 #menu-1 .navbar,
 #menu-1 .nav-dropdown-sm,
 #menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #cccccc;
+  background: #eb6b56;
 }
 #menu-1 .bg-color.transparent .link {
   color: #545251;
@@ -583,14 +579,15 @@ section.form .container {
   font-family: 'Lato', sans-serif;
   font-size: 30px;
 }
-#header2-14 .mbr-section-title {
-  font-family: 'Lato', sans-serif;
-  font-size: 30px;
-  color: #fcf3ce;
-  text-align: center;
+#content8-1b .mbr-section-title,
+#content8-1b .lead {
+  text-align: right;
+  color: #fff;
 }
-#header2-14 .mbr-section-title SPAN {
-  font-size: 24px;
+#content8-1b .mbr-section-title {
+  color: #7c706b;
+  font-size: 32px;
+  text-align: center;
 }
 #content1-b DIV {
   color: #ffffff;
@@ -674,9 +671,12 @@ section.form .container {
   font-family: 'PT Sans', sans-serif;
   font-size: 22px;
 }
+#social-buttons4-n .mbr-section-title {
+  font-size: 9px;
+}
 #content1-1 P {
   font-family: 'Lato', sans-serif;
-  font-size: 14px;
+  font-size: 24px;
   text-align: center;
 }
 #content1-1 DIV {
