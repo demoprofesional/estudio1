@@ -688,7 +688,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#fcf3ce"
           },
           "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>Siga nuestra actividad en las redes sociales:</p>",
@@ -723,7 +723,7 @@
             }
           },
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
