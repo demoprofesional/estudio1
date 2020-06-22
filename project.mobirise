@@ -21,19 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
         "#f2a9a8",
         "#545251",
         "#3882a9",
         "#c92663",
         "#fcf3ce",
-        "#ed499f",
-        "#e91f88"
+        "#ed499f"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "4.12.3",
     "favicon": false,
     "noImageResize": "true",
@@ -215,9 +215,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "35",
+            "imageSize": "40",
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -253,7 +253,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Bienvenidos al Estudio Contable - Impositivo de la Dra. Silvia Prediger &nbsp;!</span>",
-          "text": "<br>Usted encontrará un servicio integral de asesoramiento profesional en temas contables, impositivos, societarios y laborales. \n<br>\n<br>Estamos ubicados en la Ciudad de Buenos Aires, más específicamente en Plaza Lavalle, a escasos 50m de la estación Tribunales de la Línea D de Subterráneos.<br> \n<br>Disponemos de un equipo de profesionales dedicados a efectuar visitas periódicas a nuestros clientes tanto en Capital Federal como en las zonas Norte, Sur y Oeste del Gran Buenos Aires. Esto nos permite  mantener una atención personalizada y efectiva, pudiendo interactuar fluidamente para satisfacer los requisitos que demanda la actividad. \n<br><br>",
+          "text": "<br><br>Usted encontrará un servicio integral de asesoramiento profesional en temas contables, impositivos, societarios y laborales. \n<br>\n<br>Estamos ubicados en la Ciudad de Buenos Aires, más específicamente en Plaza Lavalle, a escasos 50m de la Estación Tribunales de la Línea D de Subterráneos.<br> \n<br>Disponemos de un equipo de profesionales dedicados a efectuar visitas periódicas a nuestros clientes tanto en Capital Federal como en las zonas Norte, Sur y Oeste del Gran Buenos Aires. Esto nos permite  mantener una atención personalizada y efectiva, pudiendo interactuar fluidamente para satisfacer los requisitos que demanda la actividad. \n<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Tema"
@@ -275,7 +275,7 @@
               "text-align": "right"
             },
             "SPAN": {
-              "font-size": "30px"
+              "font-size": "32px"
             }
           }
         },
@@ -393,8 +393,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Demo WEB - Estudio Profesional.  Cr.pixabay",
+              "title": "Demo WEB - Estudio Profesional.  Cr.pixabay"
             }
           },
           "media2": {
@@ -404,8 +404,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Demo WEB - Estudio Profesional.  Cr.pixabay",
+              "title": "Demo WEB - Estudio Profesional.  Cr.pixabay"
             }
           },
           "media3": {
@@ -415,8 +415,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Demo WEB - Estudio Profesional.  Cr.pixabay",
+              "title": "Demo WEB - Estudio Profesional.  Cr.pixabay"
             }
           },
           "media4": {
@@ -426,8 +426,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Demo WEB - Estudio Profesional.  Cr.pixabay",
+              "title": "Demo WEB - Estudio Profesional.  Cr.pixabay"
             }
           },
           "media5": {
@@ -448,23 +448,23 @@
           },
           "title1": "<span style=\"font-weight: normal;\">Contables</span>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "□ Conciliaciones mensuales de Cuentas Contables.\n<br><br>□ Contabilizacion y registro de las transacciones de la Sociedad.\n<br><br>□ Preparacion y Confeccion de Estados Contables.\n<br><br>□ Elaboración de informes periódicos de gestion.\n<br><br>□ Auditoria de Estados Contables.<br>\n<br>□ Certificaciones Contables.&nbsp;<br>",
+          "caption1": "□ Conciliaciones mensuales de Cuentas Contables.\n<br><br>□ Contabilización y registro de las transacciones de la Sociedad.\n<br><br>□ Preparación y Confección de Estados Contables.\n<br><br>□ Elaboración de informes periódicos de gestion.\n<br><br>□ Auditoría de Estados Contables.<br>\n<br>□ Certificaciones Contables.&nbsp;<br>",
           "title2": "<span style=\"font-weight: normal;\">Impositivos</span>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "□ Asesoramiento impositivo integral y personalizado, adecuado a su negocio.\n<br><br>□ Inscripcion, modificaciones y bajas en Impuestos Nacionales y Provinciales, tanto para personas fisicas como Sociedades.\n<br><br>□ Liquidaciones de Impuestos mensuales y anuales, tanto para Sociedades como para Personas Físicas.\n<br><br>□ Asesoramiento y Confeccion de Planes de Facilidad de Pago.\n<br><br>□ Asistencia en inspecciones y contestacion de requerimientos ante intimaciones de entes fiscalizadores.\n<br><br>□ Asesoramiento y preparación de trámites en temas como Monotributo, Declaraciones Juradas Informativas, Recategorizacion. Factura Electronica.\n<br><br>□ Planificacion Tributaria a nivel local para obtener reducción de la carga impositiva.&nbsp;<br>",
+          "caption2": "□ Asesoramiento impositivo integral y personalizado, adecuado a su negocio.\n<br><br>□ Inscripción, modificaciones y bajas en Impuestos Nacionales y Provinciales, tanto para Personas Fisícas como Sociedades.\n<br><br>□ Liquidaciones de Impuestos mensuales y anuales, tanto para Sociedades como para Personas Físicas.\n<br><br>□ Asesoramiento y Confección de Planes de Facilidad de Pago.\n<br><br>□ Asistencia en inspecciones y respuesta de requerimientos ante intimaciones de entes fiscalizadores.\n<br><br>□ Asesoramiento y preparación de trámites en temas como Monotributo, Declaraciones Juradas Informativas, Recategorización. Factura Electrónica.\n<br><br>□ Planificación Tributaria a nivel local para obtener reducción de la carga impositiva.&nbsp;<br>",
           "title3": "<span style=\"font-weight: normal;\">Societarios</span>",
           "subtitle3": "Google has a highly exhaustive list of",
-          "caption3": "□  Inscripción y constitución de sociedades.\n<br><br>□ Reformas al Estatuto Social y cambios de denominación y domicilio.\n<br><br>□ Disoluciones.\n<br><br>□ Rubrica de Libros Societarios. <br>\n<br>□ Apoyo en temas tales como mantenimiento de Libros de Actas, Asambleas de Accionistas, etc.&nbsp;<br>",
+          "caption3": "□  Inscripción y constitución de sociedades.\n<br><br>□ Reformas al Estatuto Social y cambios de denominación y domicilio.\n<br><br>□ Disoluciones.\n<br><br>□ Rúbrica de Libros Societarios. <br>\n<br>□ Apoyo en temas tales como mantenimiento de Libros de Actas, Asambleas de Accionistas, etc.&nbsp;<br>",
           "title4": "<span style=\"font-weight: normal;\">Laborales</span>",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "□ Liquidacion de Sueldos y Jornales.\n<br><br>□ Liquidación de Cargas Sociales y Régimen de Seguridad Social.\n<br><br>□ Preparación de Declaraciones Juradas.\n<br><br>□ Preparación de Libro de Sueldos.\n<br><br>□ Atención de Inspecciones.\n<br><br>□ Preparación de planes de facilidades de pago.  \n<br><br>",
+          "caption4": "□ Liquidación de Sueldos y Jornales.\n<br><br>□ Liquidación de Cargas Sociales y Régimen de Seguridad Social.\n<br><br>□ Preparación de Declaraciones Juradas.\n<br><br>□ Preparación de Libro de Sueldos.\n<br><br>□ Atención de Inspecciones.\n<br><br>□ Preparación de planes de facilidades de pago.  \n<br><br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"assets/files/Servicios_01.pdf\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Conozca más</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"assets/files/archivo-dedescarga_03.pdf\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Conozca más</a>",
           "button2": "<a data-app-btn=\"true\" href=\"assets/files/Servicios_01.pdf\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Conozca más</a>",
           "button3": "<a data-app-btn=\"true\" href=\"assets/files/Servicios_01.pdf\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Conozca más</a>",
           "button4": "<a data-app-btn=\"true\" href=\"assets/files/Servicios_01.pdf\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Conozca más</a>",
@@ -744,11 +744,61 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#545251",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Sitio realizado por <b>SERVICIOSWEB</b>.ono-industrial.com",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://serviciosweb.ono-industrial.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Solicite una <br>CO T I Z A C I O N</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1d",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "H2": {
+              "text-align": "left",
+              "color": "#efefef",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "B": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
             "bgColor": "#545251"
           },
-          "text": "<p><br></p><p><br></p><p><br></p><p>R E A L I Z A D O &nbsp; &nbsp;P O R: &nbsp; &nbsp; <a href=\"https://serviciosweb.ono-industrial.com\" target=\"_blank\" class=\"text-warning\"><b style=\"font-style: normal;\">ServiciosWEB</b></a></p><p><br></p><p><br></p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Tema"
           ],
@@ -884,7 +934,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/media-998990-640.jpg.png",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
