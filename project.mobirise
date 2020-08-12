@@ -77,7 +77,8 @@
     "witsec-mailform": false,
     "uniqCompNum": 39,
     "versionPublish": "4.12.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-175183281-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-175183281-1');\n</script>\n"
   },
   "pages": {
     "index.html": {
