@@ -624,13 +624,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s6xwDWpPbZ .navbar {
-  background: #735d78;
+  background: #655c68;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-s6xwDWpPbZ .navbar-dropdown.bg-color.transparent.opened {
-  background: #735d78;
+  background: #655c68;
 }
 .cid-s6xwDWpPbZ a {
   font-style: normal;
@@ -721,7 +721,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-s6xwDWpPbZ .dropdown .dropdown-menu {
-  background: #735d78;
+  background: #655c68;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1036,7 +1036,7 @@ section.lazy-placeholder:after {
   color: #f7d1cd;
 }
 .cid-s6xU8nEI0j {
-  background-color: #d1b3c4;
+  background-color: #e1dfe0;
 }
 .cid-s6xU8nEI0j .media-container-row {
   flex-direction: row-reverse;
@@ -1069,7 +1069,7 @@ section.lazy-placeholder:after {
 .cid-s6yw5UoXmc {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #d1b3c4;
+  background-color: #e1dfe0;
 }
 .cid-s6yw5UoXmc .mbr-text,
 .cid-s6yw5UoXmc blockquote {
@@ -1084,7 +1084,7 @@ section.lazy-placeholder:after {
 .cid-s6CbyNAmSK {
   padding-top: 0px;
   padding-bottom: 15px;
-  background-color: #d1b3c4;
+  background-color: #e1dfe0;
 }
 .cid-s6CbyNAmSK .counter-container {
   color: #767676;
@@ -1108,14 +1108,14 @@ section.lazy-placeholder:after {
   margin: 5px 10px;
   line-height: 20px;
   transition: all .2s;
-  color: #000000;
-  background: #f7d1cd;
+  color: #ffffff;
+  background: #5b686b;
   width: 25px;
   height: 25px;
   border-radius: 50%;
   background: none;
-  border: 1px solid #f7d1cd;
-  color: #f7d1cd;
+  border: 1px solid #5b686b;
+  color: #5b686b;
   content: '✓';
 }
 .cid-s6CbyNAmSK .mbr-text {
@@ -1124,7 +1124,7 @@ section.lazy-placeholder:after {
 .cid-s6yyVAVftp {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #735d78;
+  background-color: #655c68;
 }
 .cid-s6yyVAVftp .mbr-text,
 .cid-s6yyVAVftp blockquote {
@@ -1137,9 +1137,9 @@ section.lazy-placeholder:after {
   color: #f7d1cd;
 }
 .cid-s6BdLkg0Pf {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #d1b3c4;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #e1dfe0;
 }
 .cid-s6BdLkg0Pf .card-img {
   background-color: #fff;
@@ -1149,7 +1149,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6BdLkg0Pf .card-box {
   padding: 2rem;
-  background-color: #735d78;
+  background-color: #655c68;
 }
 .cid-s6BdLkg0Pf h4 {
   font-weight: 500;
@@ -1184,8 +1184,8 @@ section.lazy-placeholder:after {
 }
 .cid-s6BKDZfiTi {
   padding-top: 30px;
-  padding-bottom: 60px;
-  background-color: #d1b3c4;
+  padding-bottom: 120px;
+  background-color: #e1dfe0;
 }
 .cid-s6BKDZfiTi .mbr-section-subtitle {
   color: #735d78;
@@ -1232,7 +1232,7 @@ section.lazy-placeholder:after {
   height: 100%;
   padding: 30px 30px;
   color: #ffffff;
-  background-color: #b392ac;
+  background-color: #655c68;
   z-index: 1;
   margin: 0;
   text-align: center;
@@ -1283,7 +1283,7 @@ section.lazy-placeholder:after {
 .cid-s6JCZByOfe {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #735d78;
+  background-color: #655c68;
 }
 .cid-s6JCZByOfe .mbr-text,
 .cid-s6JCZByOfe blockquote {
@@ -1298,7 +1298,7 @@ section.lazy-placeholder:after {
 .cid-s6DTO03qxs {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #d1b3c4;
+  background-color: #655c68;
 }
 .cid-s6DTO03qxs .carousel-control {
   background: #000;
@@ -1506,7 +1506,7 @@ section.lazy-placeholder:after {
 .cid-s6JO0Ya2el {
   padding-top: 15px;
   padding-bottom: 60px;
-  background-color: #d1b3c4;
+  background-color: #e1dfe0;
 }
 @media (max-width: 767px) {
   .cid-s6JO0Ya2el .media-wrap {
@@ -1576,7 +1576,7 @@ section.lazy-placeholder:after {
 .cid-s6JD1zpjwB {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #434243;
+  background-color: #655c68;
 }
 .cid-s6JD1zpjwB .mbr-text,
 .cid-s6JD1zpjwB blockquote {
@@ -1591,7 +1591,7 @@ section.lazy-placeholder:after {
 .cid-s6NWCnbYn8 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #434243;
+  background-color: #655c68;
 }
 .cid-s6NWCnbYn8 .mbr-iconfont {
   font-size: 48px;
