@@ -80,7 +80,8 @@
     "screenshot": "screenshot.png",
     "google-analytics": "\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C6SMP1704K\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C6SMP1704K');\n</script>\n",
     "mbrsiteDomain": "z3ochuvxcr",
-    "witsec-white-label": false
+    "witsec-white-label": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
