@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Demoestudio-Feb '23",
+    "name": "Demoestudio-JUNIO '23",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -79,8 +79,8 @@
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "google-analytics": "\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C6SMP1704K\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C6SMP1704K');\n</script>\n",
-    "mbrsiteDomain": "fpnipwvv2b",
-    "witsec-white-label": false,
+    "mbrsiteDomain": "n5toup14ba",
+    "witsec-white-label": true,
     "publishChangesOnly": true
   },
   "pages": {
