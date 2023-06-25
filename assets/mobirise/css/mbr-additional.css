@@ -1453,7 +1453,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6DTO03qxs {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #655c68;
 }
 .cid-s6DTO03qxs .carousel-control {
@@ -1661,13 +1661,13 @@ section.lazy-placeholder:after {
 }
 .cid-twer5BrcVK {
   padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-bottom: 5rem;
   background-color: #655c68;
 }
 .cid-twer5BrcVK .twitter-wrapper,
 .cid-twer5BrcVK iframe {
-  min-height: 400px;
-  max-height: 400px;
+  min-height: 630px;
+  max-height: 630px;
   border-radius: 4px;
   background-size: contain;
   background-repeat: no-repeat;
